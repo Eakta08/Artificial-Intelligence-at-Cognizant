@@ -1,4 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FCognizant&psig=AOvVaw2AFUGJac8NKqHos77c3-Xd&ust=1697624585455000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCF3c3u_IEDFQAAAAAdAAAAABAE
+![image](https://github.com/Eakta08/Artificial-Intelligence-at-Cognizant/assets/131867852/03666553-7fa9-4d26-9528-0ea3fd17e379)
+
 # Cognizant - Artificial Intelligence Job Simulation (Forage)
 *Advise one of Cognizant’s clients on a supply chain issue by applying knowledge of machine learning models*
 
