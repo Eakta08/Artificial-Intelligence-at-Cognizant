@@ -5,12 +5,12 @@
 *Advise one of Cognizant’s clients on a supply chain issue by applying knowledge of machine learning models*
 
 
-**Task One**: Exploratory Data Analysis (*Exploring customer data to identify next steps*)<br>
+**Task One**: Exploratory Data Analysis<br> (*Exploring customer data to identify next steps*)<br><br>
 
-**Task Two**: Data Modeling (*Understanding relational data and framing a problem statement*)<br>
+**Task Two**: Data Modeling<br> (*Understanding relational data and framing a problem statement*)<br><br>
 
-**Task Three**: Model Building and Interpretation (*Building a predictive model and interpreting the results back to the business*)<br>
+**Task Three**: Model Building and Interpretation<br> (*Building a predictive model and interpreting the results back to the business*)<br><br>
 
-**Task Four**: Machine Learning Production (*Developing machine learning algorithms for production*)<br>
+**Task Four**: Machine Learning Production<br> (*Developing machine learning algorithms for production*)<br><br>
 
-**Task Five**: Quality Assurance (*Evaluating the production machine learning model to ensure quality results*)<br>
+**Task Five**: Quality Assurance<br> (*Evaluating the production machine learning model to ensure quality results*)<br><br>
