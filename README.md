@@ -14,3 +14,8 @@
 **Task Four**: Machine Learning Production<br> (*Developing machine learning algorithms for production*)<br><br>
 
 **Task Five**: Quality Assurance<br> (*Evaluating the production machine learning model to ensure quality results*)<br><br>
+
+
+_**Check out the simulation here:**_ https://www.theforage.com/simulations/cognizant/artificial-intelligence-rtbq
+
+_**Check out my certificate here :**_ https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_44Wzt4S9fdCofoxiR_1694783856091_completion_certificate.pdf
